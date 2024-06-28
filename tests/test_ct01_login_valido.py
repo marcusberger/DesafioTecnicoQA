@@ -13,4 +13,6 @@ class TestCT02:
 
         login_page.fazer_login("standard_user", "secret_sauce")
 
+
         home_page.verificar_login_com_sucesso()
+
