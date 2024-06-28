@@ -3,7 +3,7 @@ from selenium import webdriver
 
 driver: webdriver.Remote
 
-@pytest.fixture
+@pytest.fixture()
 def setup_teardown():
 
     global driver
