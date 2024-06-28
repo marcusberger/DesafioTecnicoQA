@@ -2,8 +2,11 @@
 
 
 **Pages**: Contém conjuntos de métodos e mapeamento dos elementos de determinada página.
+
 **Report**: Onde é gerado um relatório dos testes executados.
+
 **Tests**: Contém os scripts dos testes automatizados.
+
 **Venv**: Ambiente virtual, onde é possível a instalação das dependências necessárias sem a necessidade de instalação local.
 
 
