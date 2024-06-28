@@ -25,4 +25,3 @@ pytest tests/test_ct02_login_invalido.py
 ```sh
 pytest --html=report/test_report.html
 ```
-
