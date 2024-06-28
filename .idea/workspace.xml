@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="141356ce-2c6b-4655-9a58-406268918a08" name="Changes" comment="" />
+    <list default="true" id="141356ce-2c6b-4655-9a58-406268918a08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/report/assets/custom_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/pytest.ini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ct02_login_invalido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct02_login_invalido.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/HTMLTestRunner/HTMLTestRunner.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -42,6 +54,7 @@
     "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature/login",
+    "ignore_missing_gitignore": "true",
     "last_opened_file_path": "C:/Users/marcu/Documents/DesafioTecnicoCashPago/DesafioTecnicoCashPago/tests",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -167,16 +180,5 @@
       <updated>1719541361342</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

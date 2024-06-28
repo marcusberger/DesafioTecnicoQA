@@ -1,5 +1,5 @@
 import pytest
-import conftest
+
 from pages.login_page import LoginPage
 
 
